@@ -1,4 +1,4 @@
-# PSIA
+# PSIA (Pocket Server Information API)
 https://minecraftpocket-servers.com/ allows you to get information about servers on the site.
 
 # How does it work?
